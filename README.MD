@@ -86,7 +86,7 @@ Dadas as informações acima:
 3. Crie uma função que retorne o percentual das despesas em relação às receitas. Percentual = debitos/créditos
 4. Crie uma função que recebe o JSON no formato acima e um parâmetro category_id (number). Retornar a soma dos valores da categoria passada.
 5. Crie uma função que dada uma categoria retorne o percentual gasto nesta categoria em relação ao total de receitas. Percentual = (soma dos valores da categoria)/(soma dos créditos)
-6. Crie uma função que que recebe os JSONs acima e retorne um objeto no seguinte formato:
+6. Crie uma função que recebe os JSONs acima e retorne um objeto no seguinte formato:
 
 ```
 {
