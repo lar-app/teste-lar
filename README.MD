@@ -1,7 +1,7 @@
 # Teste da LARa
 
 ## Regras
-* Criar um repositório GIT com as soluções para as questões e nos enviar o link em resposta ao email que recebeu.
+* Criar um repositório GIT incluindo este README.md e o código fonte com as soluções para as questões. Envie o link em resposta ao email que recebeu.
 * Pode utilizar qualquer linguagem pra solucionar os problemas. Aqui na LAR trabalhamos com Java, Kotlin, Javascript, mas fique à vontade para escolher qualquer linguagem de sua preferência.
 * Responda tudo que conseguir e do jeito que conseguir. Entretanto, esperamos encontrar nas soluções boas práticas de programação, clean code. Lembre-se sempre: DRY ;)
 
